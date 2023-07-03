@@ -33,7 +33,7 @@
 
 <details><summary>Table of Contains</summary>
  
-  <a>[ Skill Academy SQL Data Science](https://github.com/farhanalaydroes/Skill-Academy-DS/blob/main/Skill%20Academy%20SQL%20Data%20Science.sql) </a> 
+  <a>[ Dicoding Machine Learning ](https://github.com/farhanalaydroes/Image-Classification/blob/main/Readme2/Final_Exam_Machine_Learning_Developer_Dicoding_Muhammad_Farhan.ipynb) </a> 
 
  </details>
 
