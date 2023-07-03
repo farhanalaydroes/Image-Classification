@@ -33,7 +33,7 @@
 
 <details><summary>Table of Contains</summary>
  
-  <a>[ Dicoding Machine Learning ](https://github.com/farhanalaydroes/Image-Classification/blob/main/Readme2/Final_Exam_Machine_Learning_Developer_Dicoding_Muhammad_Farhan.ipynb) </a> 
+  <a>[ Dicoding Machine Learning ](https://github.com/farhanalaydroes/Image-Classification/blob/main/Readme2/Dicoding_image_classification.ipynb) </a> 
 
  </details>
 
