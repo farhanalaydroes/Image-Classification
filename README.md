@@ -1,5 +1,5 @@
 <p align="center">
-  <a href='www.dicoding.com'><img src="README/logodicoding.png"></a>
+  <a href='www.dicoding.com'><img src="Readme2/logodicoding.png"></a>
 </p> 
 
 <p align="center">
